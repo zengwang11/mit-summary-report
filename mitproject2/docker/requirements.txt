@@ -1,0 +1,5 @@
+Flask
+Redis
+Pillow
+cassandra-driver
+watson-developer-cloud

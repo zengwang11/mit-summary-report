@@ -1,0 +1,437 @@
+{
+  "matching_results": 4, 
+  "results": [
+    {
+      "text": "no title\n\nPublished: Thu, 27 Oct 2016 07:01:21 GMT IBM today announced it has signed a definitive agreement to acquire Sanovi Technologies, a privately held company that provides hybrid cloud recovery, cloud migration and business continuity software for enterprise data centers and cloud infrastructure. Adding these capabilities along with advanced analytics will better enable IBM to bolster its Software Defined Resiliency strategy and delivery of Business Continuity and Disaster Recovery services for clients undergoing digital and hybrid cloud transformation. URL: http://www.ibm.com/press/us/en/pressrelease/50837.wss", 
+      "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><title>no title</title></head>\n<body>Published: Thu, 27 Oct 2016 07:01:21 GMT\n\nIBM today announced it has signed a definitive agreement to acquire Sanovi Technologies, a privately held company that provides hybrid cloud recovery, cloud migration and business continuity software for enterprise data centers and cloud infrastructure. Adding these capabilities along with advanced analytics will better enable IBM to bolster its Software Defined Resiliency strategy and delivery of Business Continuity and Disaster Recovery services for clients undergoing digital and hybrid cloud transformation.\n\nURL: http://www.ibm.com/press/us/en/pressrelease/50837.wss\n</body></html>", 
+      "extracted_metadata": {
+        "file_type": "html", 
+        "sha1": "0b496e465013c3e31dc4b8b2c34ae8742632b317", 
+        "filename": "test-doc2.html", 
+        "title": "no title"
+      }, 
+      "score": 0.6377038, 
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2, 
+            "sentiment": {
+              "score": 0.608924
+            }, 
+            "text": "IBM", 
+            "disambiguation": {
+              "subtype": [
+                "SoftwareLicense", 
+                "OperatingSystemDeveloper", 
+                "ProcessorManufacturer", 
+                "SoftwareDeveloper", 
+                "CompanyFounder", 
+                "ProgrammingLanguageDesigner", 
+                "ProgrammingLanguageDeveloper"
+              ], 
+              "name": "IBM", 
+              "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+            }, 
+            "relevance": 0.773097, 
+            "type": "Company"
+          }, 
+          {
+            "count": 1, 
+            "text": "Sanovi Technologies", 
+            "type": "Company", 
+            "sentiment": {
+              "score": 0.433964
+            }, 
+            "relevance": 0.46478
+          }
+        ], 
+        "categories": [
+          {
+            "score": 0.432462, 
+            "label": "/technology and computing"
+          }, 
+          {
+            "score": 0.244146, 
+            "label": "/technology and computing/data centers"
+          }, 
+          {
+            "score": 0.173519, 
+            "label": "/business and industrial"
+          }
+        ], 
+        "sentiment": {
+          "document": {
+            "score": 0.45071, 
+            "label": "positive"
+          }
+        }, 
+        "concepts": [
+          {
+            "relevance": 0.949819, 
+            "text": "Privately held company", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Privately_held_company"
+          }, 
+          {
+            "relevance": 0.610029, 
+            "text": "Cloud computing", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Cloud_computing"
+          }, 
+          {
+            "relevance": 0.598437, 
+            "text": "Business continuity planning", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Business_continuity_planning"
+          }, 
+          {
+            "relevance": 0.589133, 
+            "text": "Computer", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Computer"
+          }
+        ]
+      }, 
+      "id": "202fc02b-cc09-4935-98c1-8de911539c97"
+    }, 
+    {
+      "text": "no title\n\nPulished: Wed, 26 Oct 2016 11:00:27 GMT General Motors and IBM today announced a partnership to bring the power of OnStar and IBM Watson together to create OnStar Go, the auto industry\u2019s first cognitive mobility platform. Starting in early 2017, OnStar is expected to give millions of GM drivers the ability to connect and interact with their favorite brands. The platform will deliver personalized content through the dashboard and other digital channels supported by the OnStar Go ecosystem to make the most of time spent in the car. URL: http://www.ibm.com/press/us/en/pressrelease/50838.wss", 
+      "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><title>no title</title></head>\n<body>Pulished: Wed, 26 Oct 2016 11:00:27 GMT\n\nGeneral Motors and IBM today announced a partnership to bring the power of OnStar and IBM Watson together to create OnStar Go, the auto industry\u2019s first cognitive mobility platform. Starting in early 2017, OnStar is expected to give millions of GM drivers the ability to connect and interact with their favorite brands. The platform will deliver personalized content through the dashboard and other digital channels supported by the OnStar Go ecosystem to make the most of time spent in the car.\n\nURL: http://www.ibm.com/press/us/en/pressrelease/50838.wss\n</body></html>", 
+      "extracted_metadata": {
+        "file_type": "html", 
+        "sha1": "6f0b9708064efd5f79152ef846a0be7ad19cfa68", 
+        "filename": "test-doc4.html", 
+        "title": "no title"
+      }, 
+      "score": 0.59651726, 
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2, 
+            "sentiment": {
+              "score": 0.48308
+            }, 
+            "text": "OnStar", 
+            "disambiguation": {
+              "subtype": [], 
+              "name": "OnStar", 
+              "dbpedia_resource": "http://dbpedia.org/resource/OnStar"
+            }, 
+            "relevance": 0.928426, 
+            "type": "Company"
+          }, 
+          {
+            "count": 1, 
+            "text": "IBM Watson", 
+            "type": "Company", 
+            "sentiment": {
+              "score": 0
+            }, 
+            "relevance": 0.311851
+          }, 
+          {
+            "count": 1, 
+            "sentiment": {
+              "score": 0
+            }, 
+            "text": "IBM", 
+            "disambiguation": {
+              "subtype": [
+                "SoftwareLicense", 
+                "OperatingSystemDeveloper", 
+                "ProcessorManufacturer", 
+                "SoftwareDeveloper", 
+                "CompanyFounder", 
+                "ProgrammingLanguageDesigner", 
+                "ProgrammingLanguageDeveloper"
+              ], 
+              "name": "IBM", 
+              "dbpedia_resource": "http://dbpedia.org/resource/IBM"
+            }, 
+            "relevance": 0.276216, 
+            "type": "Company"
+          }, 
+          {
+            "count": 1, 
+            "sentiment": {
+              "score": 0
+            }, 
+            "text": "General Motors", 
+            "disambiguation": {
+              "subtype": [
+                "AircraftManufacturer", 
+                "AutomobileCompany", 
+                "AwardWinner"
+              ], 
+              "name": "General Motors", 
+              "dbpedia_resource": "http://dbpedia.org/resource/General_Motors"
+            }, 
+            "relevance": 0.254829, 
+            "type": "Company"
+          }, 
+          {
+            "count": 1, 
+            "text": "GM", 
+            "type": "JobTitle", 
+            "sentiment": {
+              "score": 0.48308
+            }, 
+            "relevance": 0.221113
+          }, 
+          {
+            "count": 1, 
+            "text": "Pulished", 
+            "type": "Person", 
+            "sentiment": {
+              "score": 0
+            }, 
+            "relevance": 0.210228
+          }
+        ], 
+        "categories": [
+          {
+            "score": 0.281759, 
+            "label": "/technology and computing/internet technology/social network"
+          }, 
+          {
+            "score": 0.19045, 
+            "label": "/technology and computing"
+          }, 
+          {
+            "score": 0.153878, 
+            "label": "/business and industrial/business operations/business plans"
+          }
+        ], 
+        "sentiment": {
+          "document": {
+            "score": 0.34731, 
+            "label": "positive"
+          }
+        }, 
+        "concepts": [
+          {
+            "relevance": 0.980795, 
+            "text": "General Motors", 
+            "dbpedia_resource": "http://dbpedia.org/resource/General_Motors"
+          }, 
+          {
+            "relevance": 0.686675, 
+            "text": "Opel", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Opel"
+          }, 
+          {
+            "relevance": 0.661861, 
+            "text": "World Wide Web", 
+            "dbpedia_resource": "http://dbpedia.org/resource/World_Wide_Web"
+          }, 
+          {
+            "relevance": 0.657231, 
+            "text": "Chevrolet", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Chevrolet"
+          }, 
+          {
+            "relevance": 0.645202, 
+            "text": "Thomas J. Watson", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Thomas_J._Watson"
+          }, 
+          {
+            "relevance": 0.614248, 
+            "text": "Lotus Software", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Lotus_Software"
+          }, 
+          {
+            "relevance": 0.60633, 
+            "text": "Ford Motor Company", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Ford_Motor_Company"
+          }, 
+          {
+            "relevance": 0.550636, 
+            "text": "Hewlett-Packard", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Hewlett-Packard"
+          }
+        ]
+      }, 
+      "id": "36e6e933-0df4-4f83-8407-90612f7fe34f"
+    }, 
+    {
+      "text": "no title\n\nPublished: Tue, 01 Nov 2016 08:32:23 GMT Celgene Corporation and IBM Watson Health today announced a collaboration to co-develop IBM Watson for Patient Safety, a new offering that aims to enhance pharmacovigilance methods used to collect, assess, monitor, and report adverse drug reactions. The new offering will run on the Watson Health Cloud. URL: http://www.ibm.com/press/us/en/pressrelease/50927.wss", 
+      "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><title>no title</title></head>\n<body>Published: Tue, 01 Nov 2016 08:32:23 GMT\n\nCelgene Corporation and IBM Watson Health today announced a collaboration to co-develop IBM Watson for Patient Safety, a new offering that aims to enhance pharmacovigilance methods used to collect, assess, monitor, and report adverse drug reactions. The new offering will run on the Watson Health Cloud.\n\nURL: http://www.ibm.com/press/us/en/pressrelease/50927.wss\n</body></html>", 
+      "extracted_metadata": {
+        "file_type": "html", 
+        "sha1": "d748f809c7c998033e57ed39e115436670f8054a", 
+        "filename": "test-doc1.html", 
+        "title": "no title"
+      }, 
+      "score": 0.590399, 
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 1, 
+            "text": "IBM Watson Health", 
+            "type": "Company", 
+            "sentiment": {
+              "score": 0
+            }, 
+            "relevance": 0.902478
+          }, 
+          {
+            "count": 1, 
+            "text": "Watson Health Cloud", 
+            "type": "Facility", 
+            "sentiment": {
+              "score": 0.487441
+            }, 
+            "relevance": 0.882727
+          }, 
+          {
+            "count": 1, 
+            "text": "IBM Watson", 
+            "type": "Company", 
+            "sentiment": {
+              "score": 0
+            }, 
+            "relevance": 0.826186
+          }, 
+          {
+            "count": 1, 
+            "text": "GMT Celgene Corporation", 
+            "type": "Company", 
+            "sentiment": {
+              "score": 0
+            }, 
+            "relevance": 0.49882
+          }
+        ], 
+        "categories": [
+          {
+            "score": 0.509395, 
+            "label": "/health and fitness"
+          }, 
+          {
+            "score": 0.455861, 
+            "label": "/technology and computing"
+          }, 
+          {
+            "score": 0.118297, 
+            "label": "/society/welfare/healthcare"
+          }
+        ], 
+        "sentiment": {
+          "document": {
+            "score": 0.0235341, 
+            "label": "positive"
+          }
+        }, 
+        "concepts": [
+          {
+            "relevance": 0.97198, 
+            "text": "Adverse drug reaction", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Adverse_drug_reaction"
+          }, 
+          {
+            "relevance": 0.57362, 
+            "text": "Pharmacovigilance", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Pharmacovigilance"
+          }, 
+          {
+            "relevance": 0.507165, 
+            "text": "Thomas J. Watson", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Thomas_J._Watson"
+          }, 
+          {
+            "relevance": 0.49728, 
+            "text": "Illness", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Illness"
+          }, 
+          {
+            "relevance": 0.482834, 
+            "text": "Lotus Software", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Lotus_Software"
+          }, 
+          {
+            "relevance": 0.441246, 
+            "text": "Pharmacology", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Pharmacology"
+          }, 
+          {
+            "relevance": 0.4094, 
+            "text": "Thomas J. Watson Research Center", 
+            "dbpedia_resource": "http://dbpedia.org/resource/Thomas_J._Watson_Research_Center"
+          }
+        ]
+      }, 
+      "id": "6c530a08-61d3-4fd3-a908-33d4900f5e2d"
+    }, 
+    {
+      "text": "no title\n\nPublished: Wed, 26 Oct 2016 11:01:52 GMT IBM and Slack are partnering to bring Watson to Slack\u2019s global community of developers and enterprise users. Drawing on the power of Slack\u2019s digital workplace and the cognitive computing capabilities of Watson, developers will be able to create more offerings \u2014 including bots and other conversational inferences \u2014 that will transform the platform\u2019s user experience. Developers can easily access the range of Watson services -- such as Conversation, Sentiment Analysis or speech APIs -- and build powerful new tools for the platform with this enhanced cognitive functionality. URL: http://www.ibm.com/press/us/en/pressrelease/50844.wss", 
+      "html": "<?xml version='1.0' encoding='UTF-8' standalone='yes'?><html>\n<head>\n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/><title>no title</title></head>\n<body>Published: Wed, 26 Oct 2016 11:01:52 GMT\n\nIBM and Slack are partnering to bring Watson to Slack\u2019s global community of developers and enterprise users. Drawing on the power of Slack\u2019s digital workplace and the cognitive computing capabilities of Watson, developers will be able to create more offerings \u2014 including bots and other conversational inferences \u2014 that will transform the platform\u2019s user experience. Developers can easily access the range of Watson services -- such as Conversation, Sentiment Analysis or speech APIs -- and build powerful new tools for the platform with this enhanced cognitive functionality.\n\nURL: http://www.ibm.com/press/us/en/pressrelease/50844.wss\n</body></html>", 
+      "extracted_metadata": {
+        "file_type": "html", 
+        "sha1": "9f57dc61523933a2a3995441dc7072f252c21e0f", 
+        "filename": "test-doc3.html", 
+        "title": "no title"
+      }, 
+      "score": 0.41747513, 
+      "enriched_text": {
+        "entities": [
+          {
+            "count": 2, 
+            "text": "Slack", 
+            "type": "Person", 
+            "sentiment": {
+              "score": -0.482423
+            }, 
+            "relevance": 0.849538
+          }, 
+          {
+            "count": 2, 
+            "text": "Watson", 
+            "type": "Person", 
+            "sentiment": {
+              "score": -0.521583
+            }, 
+            "relevance": 0.74345
+          }, 
+          {
+            "count": 1, 
+            "text": "IBM", 
+            "type": "Company", 
+            "sentiment": {
+              "score": -0.482423
+            }, 
+            "relevance": 0.358165
+          }
+        ], 
+        "categories": [
+          {
+            "score": 0.429787, 
+            "label": "/technology and computing"
+          }, 
+          {
+            "score": 0.224147, 
+            "label": "/technology and computing/software"
+          }, 
+          {
+            "score": 0.145569, 
+            "label": "/business and industrial"
+          }
+        ], 
+        "sentiment": {
+          "document": {
+            "score": -0.0209516, 
+            "label": "negative"
+          }
+        }, 
+        "concepts": [
+          {
+            "relevance": 0.914797, 
+            "text": "2000 albums", 
+            "dbpedia_resource": "http://dbpedia.org/resource/2000_albums"
+          }, 
+          {
+            "relevance": 0.867455, 
+            "text": "United Kingdom", 
+            "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+          }
+        ]
+      }, 
+      "id": "6c822920-0c9b-46cf-be7a-ed40b7e612c6"
+    }
+  ]
+}
